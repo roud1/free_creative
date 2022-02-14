@@ -18,7 +18,8 @@
 
 
 header{
-    background: #CDCDCD;
+    position: absolute;
+    width: 100%;
 }
 
 .logo{
@@ -133,6 +134,8 @@ header li a{
 }
 
 .section-2{
+    max-width: 1162px;
+    margin: auto;
     padding-top: 70px;
     padding-bottom: 133px;
 }
@@ -237,4 +240,197 @@ header li a{
 .image{
     margin-top: 15px;
     margin-left: 82px;
+}
+
+.section-3{
+    max-width: 1162px;
+    margin: auto;
+    padding-top: 144px;
+    padding-bottom: 100px;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.amperia{
+    font-family: "20 Kopeek";
+    font-size: 55px;
+    line-height: 15px;
+    margin-top: 60px;
+}
+
+
+.ff-1{
+    font-family: "20 Kopeek";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.see{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "20 Kopeek";
+    padding: 25px 47px;
+    border: 1px solid black;
+    border-radius: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.margin{
+    margin-top: 60px;
+    margin-left: 136px;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.mt-100{
+    margin-top: 100px;
+}
+
+.a-1{
+    display: inline-block;
+    padding: 23px 47px;
+    background: #2B59C3;
+    border-radius: 40px;
+    font-size: 26px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-top: 76px;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+
+.section-4{
+    max-width: 1162px;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.background-3{
+    margin-top: 56px;
+    margin-left: 16px;
+    background: #2B59C3;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 11px 39px 18px 14px;
+    font-family: "20 Kopeek";
+    font-size: 20px;
+    line-height: 110%;
+    font-weight: 600;
+}
+
+.background-4{
+    margin-left: 16px;
+    padding: 11px 39px 18px 14px;
+    font-family: "20 Kopeek";
+    font-size: 20px;
+    line-height: 110%;
+    font-weight: 600;
+}
+
+.mt-15{
+    margin-top: 15px;
+}
+
+.text-5{
+    font-family: "20 Kopeek";
+    font-size: 26px;
+    line-height: 110%;
+}
+
+.text-6{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 110%;
+}
+
+.product{
+    font-family: "20 Kopeek";
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 41px;
+    margin-top: 77px;
+    margin-bottom: 11px;
+}
+
+.form-1{
+    margin-right: 30px;
+    border: 1px solid #181818;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 23px 149px 23px 29px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "20 Kopeek";
+    width: 350px;
+}
+
+.btn{
+    background: #2B59C3;
+    border-radius: 40px;
+    padding: 23px 47px;
+    font-size: 18px;
+    font-family: "20 Kopeek";
+    color: #FFFFFF;
+    border: none;
+}
+.btn:hover{
+    background: #01996D;
+    color: chartreuse;
+}
+
+.box2{
+    align-items: center;
+    display: flex;
+}
+
+
+.checkbox{
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 21px;
+}
+
+.i-agree{
+    font-weight: 600;
+    font-family: "20 Kopeek";
+    font-size: 18px;
+    line-height: 25px;
+    text-decoration: none;
+    color: #2B59C3;
+}
+
+.span{
+    color: #181818;
+}
+
+.product{
+    font-family: "20 Kopeek";
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 110%;
+    margin-top: 77px;
+    margin-bottom: 11px;
+}
+.expert{
+    font-family: "20 Kopeek";
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 110%;
+    margin-bottom: 27px;
 }
