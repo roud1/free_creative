@@ -435,6 +435,221 @@ header li a{
     margin-bottom: 27px;
 }
 
-.f{
+.section-5{
+    max-width: 1162px;
+    margin: auto;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
 
+
+.stages{
+    font-family: "20 Kopeek";
+    font-size: 55px;
+    line-height: 100%;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.bulb{
+    width: 255px;
+}
+
+
+.text-7{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 110%;
+    margin-top: 23px;
+}
+
+
+.text-8{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    width: 107px;
+    color: #181818;
+    margin-left: 155px;
+}
+
+
+.text-9{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 155px;
+}
+
+
+.text-10{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    width: 107px;
+    color: #181818;
+    margin-left: 30px;
+}
+
+
+.text-11{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.sheet{
+    width: 283px;
+    margin-top: 62px;
+}
+
+
+
+.text-12{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    width: 107px;
+    color: #181818;
+    margin-left: 127px;
+    margin-top: 60px;
+}
+
+
+.text-13{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 127px;
+}
+
+
+.text-14{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    width: 160px;
+    color: #181818;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+
+.text-15{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.book{
+    width: 283px;
+    margin-top: 62px;
+}
+
+.text-16{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    width: 160px;
+    color: #181818;
+    margin-left: 127px;
+    margin-top: 60px;
+}
+
+.text-17{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 127px;
+}
+
+
+.text-18{
+    font-family: "20 Kopeek";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    width: 200px;
+    color: #181818;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.section-6{
+    background-image: url('../images/Rectangle 32.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 282px;
+    padding-bottom: 80px;
+    width: 100%;
+    background-position: center;
+}
+
+.title-2{
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 55px;
+    font-family: '20 Kopeek';
+    color: #FFFFFF;
+}
+.number-2{
+    color: #FFFFFF;
+    font-size: 55px;
+    line-height: 55px;
+    font-weight: 400;
+    font-family: '20 Kopeek';
+    padding-right: 8px;
+    padding-top: 40px;
+}
+.text_1{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    font-family: '20 Kopeek';
+    width: 150px;
+    padding-top: 65px;
+    padding-right: 28px;
 }
