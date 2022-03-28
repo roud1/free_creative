@@ -1,0 +1,14 @@
+@media only screen and (max-width: 768px) {
+    .social{
+        display: none
+    }
+    .section{
+        background-image: url('../images/Rectangle 52.jpg')
+    }
+}
+
+
+@media only screen and (max-width: 428px){
+
+}
+
