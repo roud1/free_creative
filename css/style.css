@@ -870,5 +870,5 @@ header li a{
 }
 
 .git{
-
+    display: flex;
 }
